@@ -1,0 +1,25 @@
+.partb{
+    width: 50%;
+    height: 100em;
+    background-color: brown;
+    float: left;
+}
+.parttodo{
+    float: right;
+    width: 50%;
+    height: 100em;
+    background-color: cornflowerblue;
+}
+.check{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.textc{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+}
